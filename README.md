@@ -1,5 +1,7 @@
 # Lucee Ant Script Runner
 
+## Moved to https://github.com/lucee/script-runner
+
 A simple js-223 script runner for Lucee cfml
 
 [![CI](https://github.com/zspitzer/lucee-script-engine-runner/actions/workflows/main.yml/badge.svg)](https://github.com/zspitzer/lucee-script-engine-runner/actions/workflows/main.yml)
